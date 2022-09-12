@@ -1,0 +1,15 @@
+#tuple data type
+#immutable(we can't cange)
+#represent within paranthesis ()
+#hetrogeneous data type(different data type)
+
+t=()
+print(t)
+t=(1)
+print(t)
+t=(10,20,"python","java",33,33)
+print(t)
+print(id(t))
+print(type(t))
+print(len(t))
+print(t[2])
